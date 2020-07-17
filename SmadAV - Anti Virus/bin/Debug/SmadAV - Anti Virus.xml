@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SmadAV - Anti Virus
+</name>
+</assembly>
+<members>
+<member name="T:SmadAV___Anti_Virus.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources._1646903">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources._16469031">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.Group_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.maintenance_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.maintenance_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.search_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.search_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.settings_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.settings_127px_png2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.shield_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.shield_127px_png22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SmadAV___Anti_Virus.My.Resources.Resources.smadav_logo_750CCAABF2_seeklogo_com">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
